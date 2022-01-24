@@ -1,0 +1,81 @@
+body {
+    background-image: url("images/pattern-background-desktop.svg");
+    background-position: top;
+    background-color: hsl(225, 100%, 94%);
+    background-repeat: no-repeat; /* Do not repeat the image */
+   }
+
+.rndboxed {
+    border-radius: 1em;
+    border: none ;
+    background-color: white;
+    width: fit-content; 
+    height: 40em;
+    text-align: center;
+    margin: 0 auto;
+    position:absolute;
+    top: 15%;
+    left: 38%;
+    
+}
+
+.feature {
+    border-radius: 1em 1em 0em 0em; 
+}
+
+.checkout {
+    background-color: hsl(256, 88%, 29%);
+    color: white;
+    border-radius: 1em;
+    padding: 16px 0px;
+    width: 85%;
+    display: inline-block;
+}
+
+.plan {
+    background-color: hsl(225, 100%, 98%);
+    border-radius: 1em;
+    padding: 0px 0px;
+    width: 85%;
+    display: inline-block;
+    line-height: 25px;
+    background-image: url(images/icon-music.svg);
+    background-repeat: no-repeat;
+    background-position: 20px 20px;
+}
+
+.info {
+    display: inline-block;
+    margin: 20px;
+}
+
+p a {
+    position: relative;
+    bottom: 15px;
+    left: 60px
+}
+
+h1 {
+    font-family: 'Red Hat Display';
+    font-weight: 900;
+}
+
+.checkout, #annual, .cancel, .info {
+    font-family: 'Red Hat Display';
+    font-weight: 700;
+}
+
+.grey, .cancel, .print {
+    color: grey;
+}
+
+.print {
+    font-family:  'Red Hat Display';
+    font-weight: 500;
+}
+
+.attribution {
+    position: absolute;
+    top: 85%;
+    left: 40%;
+}

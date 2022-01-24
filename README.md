@@ -28,7 +28,7 @@ In the future I could add hover states to the proceeed to payment and cancel ord
 
 ## Author
 
-- Frontend Mentor - [@cecemahumane](https://www.frontendmentor.io/profile/cecmahumane)
+- Frontend Mentor - [@cecmahumane](https://www.frontendmentor.io/profile/cecmahumane)
 
 
 
